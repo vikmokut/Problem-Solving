@@ -11,11 +11,14 @@
 #
 Hi there,
 
-This repo details the problems I came up with or found, and the solutions I created for them to the best of my abilities, learning along the way.
+This repo details the problems I came up with or found, and the solutions I created for them. Some will be optimized in the future as I learn and understand better approaches available. They also include leetcode and hackerrank problems solved.
 
 ### Table of Content
-- 0x00_seconds2hours
-- 0x01_reverseInt
-- 0x02_
-- 0x03_
-- 0x04_
+- **[C++](https://github.com/vikmokut/Problem-Solving/tree/main/c%2B%2B)**
+- **[C_programming Solutions]()**
+- **[Leetcode]()**
+- **[Hackerrank]()**
+
+> "“If everyone is moving forward together, then success takes care of itself.” ~ Henry Ford
+
+I am open to collaboration on meaningful and challenging projects, open to building the next technological innovation that will shift the world a nudge towards the future of solutions.
