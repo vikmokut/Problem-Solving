@@ -8,3 +8,5 @@
 107,Tall Guy,36,sick dude
 108,Trish Nato,31,?Love
 109,Great Conor,45,Feeling unwell
+110,Grit Naymae,34,?Love at first sight
+111,Tamar Love,22,?inordinate affection
