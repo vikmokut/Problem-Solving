@@ -1,0 +1,10 @@
+100,Valley Creep,65,?confusion
+101,Trigage Empero,34,?cerebral malaria
+102,Tamal Endurine,23,?cricket foot
+103,Craige Door,34,?toelisiasis
+104,Lama Kurry,63,?adhd
+105,Truce Bruce,34,?lame
+106,Tama Lindrel,89,?old age
+107,Tall Guy,36,sick dude
+108,Trish Nato,31,?Love
+109,Great Conor,45,Feeling unwell
