@@ -12,6 +12,7 @@ read choice
 if [[ $choice == "yes" || $choice == 'y' ]]; then
 	echo ""
 	git add .
+	git status
 	git commit -m "updated"
 	git push
 	echo ""
