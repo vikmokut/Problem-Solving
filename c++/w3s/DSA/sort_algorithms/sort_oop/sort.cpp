@@ -1,4 +1,6 @@
-void Sorted::bubbleSort(){
+#include "sort.h"
+
+void Sorter::bubbleSort(){
     int largeValue;
     
     for (int i = 0; i < arrayLength - 1; i++) {
@@ -15,7 +17,7 @@ void Sorted::bubbleSort(){
     }
 }
 
-void Sorted::selectionSort() {
+void Sorter::selectionSort() {
     int leastValue;
     int leastValueIndex;
 
