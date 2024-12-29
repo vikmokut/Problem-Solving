@@ -14,6 +14,9 @@ int main() {
 	node2->next = node3;
 	node3->next = node4;
 
+	// prints the linked list
+	printList(node1);
+
 	// frees the allocated memory on program end
 	free(node1);
 	free(node2);
