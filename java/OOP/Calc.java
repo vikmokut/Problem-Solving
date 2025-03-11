@@ -1,8 +1,8 @@
 public class Calc {
 
-	static int x;
-	static int y;
-	static char ops;
+	int x;
+	int y;
+	char ops;
 	
 	// defines an method
 	static float calculate () {
